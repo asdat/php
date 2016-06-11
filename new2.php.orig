@@ -1,0 +1,7 @@
+<?php
+<<<<<<< HEAD
+    echo "Php is my life";
+=======
+    echo "Second php file, try merge";
+>>>>>>> dev21
+?>

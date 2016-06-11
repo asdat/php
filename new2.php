@@ -2,7 +2,7 @@
 if 1>0 {
 echo "True";
 }
-ifelse {
+elseif {
 echo "Falce";
 }
 ?>

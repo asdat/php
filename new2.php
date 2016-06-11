@@ -1,3 +1,3 @@
 <?php
-    echo "Second php file";
+    echo "Second php file, try merge";
 ?>

@@ -1,3 +1,3 @@
 <?php
-    echo "Php is my life";
+    echo "Second php file, try merge. Php is my life ";
 ?>

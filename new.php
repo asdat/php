@@ -1,1 +1,3 @@
-Thats a new file
+<?php
+echo "Thats a new file";
+?>
